@@ -1,2 +1,2 @@
 # integration-github
-testing 1
+testing
